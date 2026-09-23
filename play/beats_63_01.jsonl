@@ -73,3 +73,6 @@
 {"n":73,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the plywood at Drydock. Nobody past the west yard. We push in 6 steps. Arc on the left lane, open."}
 {"n":74,"kind":"place","name":"Drydock west yard","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Drydock west yard. Matt keeps the plywood for the push. 7 steps, arc on the left lane, open."}
 {"n":75,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, west yard. arc left open. 8 steps. The plywood stays for the push."}
+{"n":76,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the plywood at Drydock. Nobody past the west yard. We push in 2 steps. Arc on the left lane, open."}
+{"n":77,"kind":"place","name":"Drydock west yard","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Drydock west yard. Nia keeps the plywood for the push. 3 steps, arc on the left lane, open."}
+{"n":78,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, west yard. arc left open. 4 steps. The plywood stays for the push."}
