@@ -774,3 +774,6 @@
 {"n":774,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the badge door at High line. Nobody past the west yard. We push in 6 steps. Arc on the left lane, open."}
 {"n":775,"kind":"place","name":"High line west yard","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"High line west yard. Bess keeps the badge door for the push. 7 steps, arc on the left lane, open."}
 {"n":776,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, west yard. arc left open. 8 steps. The badge door stays for the push."}
+{"n":777,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the radio coil at Ward gate. Nobody past the west yard. We push in 2 steps. Arc on the left lane, open."}
+{"n":778,"kind":"place","name":"Ward gate west yard","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Ward gate west yard. Matt keeps the radio coil for the push. 3 steps, arc on the left lane, open."}
+{"n":779,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, west yard. arc left open. 4 steps. The radio coil stays for the push."}
