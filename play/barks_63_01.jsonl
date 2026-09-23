@@ -404,3 +404,6 @@
 {"n":404,"kind":"place","name":"Switchyard west yard","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Switchyard west yard. Ivo keeps the barrel for the push. 8 steps, arc on the left lane, open."}
 {"n":405,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, west yard. arc left open. 2 steps. The barrel stays for the push."}
 {"n":406,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the barrel at Switchyard. Nobody past the west yard. We push in 3 steps. Arc on the left lane, open."}
+{"n":407,"kind":"place","name":"Switchyard west yard","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Switchyard west yard. Bess keeps the barrel for the push. 4 steps, arc on the left lane, open."}
+{"n":408,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, west yard. arc left open. 5 steps. The barrel stays for the push."}
+{"n":409,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the barrel at Drydock. Nobody past the west yard. We push in 6 steps. Arc on the left lane, open."}
