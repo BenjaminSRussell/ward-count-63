@@ -26,3 +26,6 @@
 {"n":26,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the plywood at the Lot. Nobody past the west court. We push in 7 steps. Arc on the left lane, open."}
 {"n":27,"kind":"place","name":"the Lot west court","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"the Lot west court. Bess keeps the plywood for the push. 8 steps, arc on the left lane, open."}
 {"n":28,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, west court. arc left open. 2 steps. The plywood stays for the push."}
+{"n":29,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the plywood at Stockyard fence. Nobody past the west court. We push in 3 steps. Arc on the left lane, open."}
+{"n":30,"kind":"place","name":"Stockyard fence west court","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Stockyard fence west court. Matt keeps the plywood for the push. 4 steps, arc on the left lane, open."}
+{"n":31,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Stockyard fence, west court. arc left open. 5 steps. The plywood stays for the push."}
