@@ -288,3 +288,6 @@
 {"n":288,"kind":"place","name":"Clinic roof west court","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Clinic roof west court. Ivo keeps the hydrant for the push. 3 steps, arc on the left lane, open."}
 {"n":289,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Clinic roof, west court. arc left open. 4 steps. The hydrant stays for the push."}
 {"n":290,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the hydrant at Clinic roof. Nobody past the west court. We push in 5 steps. Arc on the left lane, open."}
+{"n":291,"kind":"place","name":"Clinic roof west court","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Clinic roof west court. Bess keeps the hydrant for the push. 6 steps, arc on the left lane, open."}
+{"n":292,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Clinic roof, west court. arc left open. 7 steps. The hydrant stays for the push."}
+{"n":293,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the hydrant at Switchyard. Nobody past the west court. We push in 8 steps. Arc on the left lane, open."}
