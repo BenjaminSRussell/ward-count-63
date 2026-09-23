@@ -42,3 +42,6 @@
 {"n":42,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Last Light, east yard. arc left open. 7 steps. The rope stays for the push."}
 {"n":43,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the rope at Last Light. Nobody past the east yard. We push in 8 steps. Arc on the left lane, open."}
 {"n":44,"kind":"place","name":"Last Light east yard","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Last Light east yard. Ivo keeps the rope for the push. 2 steps, arc on the left lane, open."}
+{"n":45,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Last Light, east yard. arc left open. 3 steps. The rope stays for the push."}
+{"n":46,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the rope at Last Light. Nobody past the east yard. We push in 4 steps. Arc on the left lane, open."}
+{"n":47,"kind":"place","name":"Last Light east yard","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Last Light east yard. Bess keeps the rope for the push. 5 steps, arc on the left lane, open."}
