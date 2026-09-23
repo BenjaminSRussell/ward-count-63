@@ -341,3 +341,6 @@
 {"n":341,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the barrel at Kessler alley. Nobody past the west court. We push in 7 steps. Arc on the left lane, open."}
 {"n":342,"kind":"place","name":"Kessler alley west court","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Kessler alley west court. Matt keeps the barrel for the push. 8 steps, arc on the left lane, open."}
 {"n":343,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Kessler alley, west court. arc left open. 2 steps. The barrel stays for the push."}
+{"n":344,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the barrel at Kessler alley. Nobody past the west court. We push in 3 steps. Arc on the left lane, open."}
+{"n":345,"kind":"place","name":"Kessler alley west court","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Kessler alley west court. Nia keeps the barrel for the push. 4 steps, arc on the left lane, open."}
+{"n":346,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, west court. arc left open. 5 steps. The barrel stays for the push."}
