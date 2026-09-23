@@ -662,3 +662,6 @@
 {"n":662,"kind":"place","name":"the Underpass west yard","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"the Underpass west yard. Matt keeps the lamp for the push. 7 steps, arc on the left lane, open."}
 {"n":663,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Underpass, west yard. arc left open. 8 steps. The lamp stays for the push."}
 {"n":664,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the lamp at the Underpass. Nobody past the west yard. We push in 2 steps. Arc on the left lane, open."}
+{"n":665,"kind":"place","name":"the Underpass west yard","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"the Underpass west yard. Nia keeps the lamp for the push. 3 steps, arc on the left lane, open."}
+{"n":666,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Underpass, west yard. arc left open. 4 steps. The lamp stays for the push."}
+{"n":667,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the lamp at the Underpass. Nobody past the west yard. We push in 5 steps. Arc on the left lane, open."}
