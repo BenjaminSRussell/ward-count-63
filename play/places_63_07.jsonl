@@ -177,3 +177,6 @@
 {"n":177,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, south yard. arc left open. 6 steps. The hydrant stays for the push."}
 {"n":178,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the hydrant at the Lot. Nobody past the south yard. We push in 7 steps. Arc on the left lane, open."}
 {"n":179,"kind":"place","name":"the Lot south yard","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"the Lot south yard. Bess keeps the hydrant for the push. 8 steps, arc on the left lane, open."}
+{"n":180,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, south yard. arc left open. 2 steps. The hydrant stays for the push."}
+{"n":181,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the hydrant at Stockyard fence. Nobody past the south yard. We push in 3 steps. Arc on the left lane, open."}
+{"n":182,"kind":"place","name":"Stockyard fence south yard","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Stockyard fence south yard. Matt keeps the hydrant for the push. 4 steps, arc on the left lane, open."}
