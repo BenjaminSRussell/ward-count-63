@@ -131,3 +131,6 @@
 {"n":131,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the shutter at Stockyard fence. Nobody past the south slip. We push in 2 steps. Arc on the left lane, open."}
 {"n":132,"kind":"place","name":"Stockyard fence south slip","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Stockyard fence south slip. Ivo keeps the shutter for the push. 3 steps, arc on the left lane, open."}
 {"n":133,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, south slip. arc left open. 4 steps. The shutter stays for the push."}
+{"n":134,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the shutter at Stockyard fence. Nobody past the south slip. We push in 5 steps. Arc on the left lane, open."}
+{"n":135,"kind":"place","name":"Stockyard fence south slip","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Stockyard fence south slip. Bess keeps the shutter for the push. 6 steps, arc on the left lane, open."}
+{"n":136,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Stockyard fence, south slip. arc left open. 7 steps. The shutter stays for the push."}
