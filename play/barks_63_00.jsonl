@@ -399,3 +399,6 @@
 {"n":399,"kind":"place","name":"Switchyard south slip","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Switchyard south slip. Bess keeps the awning for the push. 4 steps, arc on the left lane, open."}
 {"n":400,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, south slip. arc left open. 5 steps. The awning stays for the push."}
 {"n":401,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the awning at Drydock. Nobody past the south slip. We push in 6 steps. Arc on the left lane, open."}
+{"n":402,"kind":"place","name":"Drydock south slip","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Drydock south slip. Matt keeps the awning for the push. 7 steps, arc on the left lane, open."}
+{"n":403,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, south slip. arc left open. 8 steps. The awning stays for the push."}
+{"n":404,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the awning at Drydock. Nobody past the south slip. We push in 2 steps. Arc on the left lane, open."}
