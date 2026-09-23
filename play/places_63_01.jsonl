@@ -675,3 +675,6 @@
 {"n":675,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mast yard, west yard. arc left open. 6 steps. The lamp stays for the push."}
 {"n":676,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the lamp at Mast yard. Nobody past the west yard. We push in 7 steps. Arc on the left lane, open."}
 {"n":677,"kind":"place","name":"Mast yard west yard","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Mast yard west yard. Nia keeps the lamp for the push. 8 steps, arc on the left lane, open."}
+{"n":678,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mast yard, west yard. arc left open. 2 steps. The lamp stays for the push."}
+{"n":679,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the lamp at Mast yard. Nobody past the west yard. We push in 3 steps. Arc on the left lane, open."}
+{"n":680,"kind":"place","name":"Mast yard west yard","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Mast yard west yard. Ivo keeps the lamp for the push. 4 steps, arc on the left lane, open."}
