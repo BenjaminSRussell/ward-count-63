@@ -249,3 +249,6 @@
 {"n":249,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Clinic roof, east yard. arc left open. 4 steps. The shutter stays for the push."}
 {"n":250,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the shutter at Clinic roof. Nobody past the east yard. We push in 5 steps. Arc on the left lane, open."}
 {"n":251,"kind":"place","name":"Clinic roof east yard","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Clinic roof east yard. Bess keeps the shutter for the push. 6 steps, arc on the left lane, open."}
+{"n":252,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Clinic roof, east yard. arc left open. 7 steps. The shutter stays for the push."}
+{"n":253,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the shutter at Switchyard. Nobody past the east yard. We push in 8 steps. Arc on the left lane, open."}
+{"n":254,"kind":"place","name":"Switchyard east yard","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Switchyard east yard. Matt keeps the shutter for the push. 2 steps, arc on the left lane, open."}
