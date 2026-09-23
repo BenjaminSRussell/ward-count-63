@@ -528,3 +528,6 @@
 {"n":528,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Stockyard fence, south yard. arc left open. 7 steps. The crate stays for the push."}
 {"n":529,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the crate at Mall court. Nobody past the south yard. We push in 8 steps. Arc on the left lane, open."}
 {"n":530,"kind":"place","name":"Mall court south yard","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Mall court south yard. Matt keeps the crate for the push. 2 steps, arc on the left lane, open."}
+{"n":531,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mall court, south yard. arc left open. 3 steps. The crate stays for the push."}
+{"n":532,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the crate at Mall court. Nobody past the south yard. We push in 4 steps. Arc on the left lane, open."}
+{"n":533,"kind":"place","name":"Mall court south yard","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Mall court south yard. Nia keeps the crate for the push. 5 steps, arc on the left lane, open."}
