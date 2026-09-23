@@ -355,3 +355,6 @@
 {"n":355,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the barrel at Last Light. Nobody past the west yard. We push in 8 steps. Arc on the left lane, open."}
 {"n":356,"kind":"place","name":"Last Light west yard","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Last Light west yard. Ivo keeps the barrel for the push. 2 steps, arc on the left lane, open."}
 {"n":357,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Last Light, west yard. arc left open. 3 steps. The barrel stays for the push."}
+{"n":358,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the barrel at Last Light. Nobody past the west yard. We push in 4 steps. Arc on the left lane, open."}
+{"n":359,"kind":"place","name":"Last Light west yard","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Last Light west yard. Bess keeps the barrel for the push. 5 steps, arc on the left lane, open."}
+{"n":360,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Last Light, west yard. arc left open. 6 steps. The barrel stays for the push."}
