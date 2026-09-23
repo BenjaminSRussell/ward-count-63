@@ -192,3 +192,6 @@
 {"n":192,"kind":"place","name":"the Lot west court","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"the Lot west court. Ivo keeps the hydrant for the push. 5 steps, arc on the left lane, open."}
 {"n":193,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, west court. arc left open. 6 steps. The hydrant stays for the push."}
 {"n":194,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the hydrant at the Lot. Nobody past the west court. We push in 7 steps. Arc on the left lane, open."}
+{"n":195,"kind":"place","name":"the Lot west court","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"the Lot west court. Bess keeps the hydrant for the push. 8 steps, arc on the left lane, open."}
+{"n":196,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, west court. arc left open. 2 steps. The hydrant stays for the push."}
+{"n":197,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the hydrant at Stockyard fence. Nobody past the west court. We push in 3 steps. Arc on the left lane, open."}
