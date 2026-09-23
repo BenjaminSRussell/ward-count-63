@@ -449,3 +449,6 @@
 {"n":449,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the awning at Drydock. Nobody past the north yard. We push in 6 steps. Arc on the left lane, open."}
 {"n":450,"kind":"place","name":"Drydock north yard","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Drydock north yard. Matt keeps the awning for the push. 7 steps, arc on the left lane, open."}
 {"n":451,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, north yard. arc left open. 8 steps. The awning stays for the push."}
+{"n":452,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the awning at Drydock. Nobody past the north yard. We push in 2 steps. Arc on the left lane, open."}
+{"n":453,"kind":"place","name":"Drydock north yard","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Drydock north yard. Nia keeps the awning for the push. 3 steps, arc on the left lane, open."}
+{"n":454,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, north yard. arc left open. 4 steps. The awning stays for the push."}
