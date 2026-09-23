@@ -279,3 +279,6 @@
 {"n":279,"kind":"place","name":"Switchyard north yard","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Switchyard north yard. Bess keeps the shutter for the push. 4 steps, arc on the left lane, open."}
 {"n":280,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, north yard. arc left open. 5 steps. The shutter stays for the push."}
 {"n":281,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the shutter at Drydock. Nobody past the north yard. We push in 6 steps. Arc on the left lane, open."}
+{"n":282,"kind":"place","name":"Drydock north yard","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Drydock north yard. Matt keeps the shutter for the push. 7 steps, arc on the left lane, open."}
+{"n":283,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, north yard. arc left open. 8 steps. The shutter stays for the push."}
+{"n":284,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the shutter at Drydock. Nobody past the north yard. We push in 2 steps. Arc on the left lane, open."}
