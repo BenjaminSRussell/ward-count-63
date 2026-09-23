@@ -680,3 +680,6 @@
 {"n":680,"kind":"place","name":"the Lot south yard","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"the Lot south yard. Ivo keeps the lamp for the push. 5 steps, arc on the left lane, open."}
 {"n":681,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, south yard. arc left open. 6 steps. The lamp stays for the push."}
 {"n":682,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the lamp at the Lot. Nobody past the south yard. We push in 7 steps. Arc on the left lane, open."}
+{"n":683,"kind":"place","name":"the Lot south yard","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"the Lot south yard. Bess keeps the lamp for the push. 8 steps, arc on the left lane, open."}
+{"n":684,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, south yard. arc left open. 2 steps. The lamp stays for the push."}
+{"n":685,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the lamp at Stockyard fence. Nobody past the south yard. We push in 3 steps. Arc on the left lane, open."}
