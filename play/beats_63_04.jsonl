@@ -685,3 +685,6 @@
 {"n":685,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the badge door at the Underpass. Nobody past the east yard. We push in 6 steps. Arc on the left lane, open."}
 {"n":686,"kind":"place","name":"the Underpass east yard","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"the Underpass east yard. Matt keeps the badge door for the push. 7 steps, arc on the left lane, open."}
 {"n":687,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Underpass, east yard. arc left open. 8 steps. The badge door stays for the push."}
+{"n":688,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the badge door at the Underpass. Nobody past the east yard. We push in 2 steps. Arc on the left lane, open."}
+{"n":689,"kind":"place","name":"the Underpass east yard","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"the Underpass east yard. Nia keeps the badge door for the push. 3 steps, arc on the left lane, open."}
+{"n":690,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Underpass, east yard. arc left open. 4 steps. The badge door stays for the push."}
