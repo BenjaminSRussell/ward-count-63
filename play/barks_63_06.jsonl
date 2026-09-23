@@ -675,3 +675,6 @@
 {"n":675,"kind":"place","name":"the Lot north yard","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"the Lot north yard. Bess keeps the badge door for the push. 8 steps, arc on the left lane, open."}
 {"n":676,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, north yard. arc left open. 2 steps. The badge door stays for the push."}
 {"n":677,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the badge door at Stockyard fence. Nobody past the north yard. We push in 3 steps. Arc on the left lane, open."}
+{"n":678,"kind":"place","name":"Stockyard fence north yard","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Stockyard fence north yard. Matt keeps the badge door for the push. 4 steps, arc on the left lane, open."}
+{"n":679,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Stockyard fence, north yard. arc left open. 5 steps. The badge door stays for the push."}
+{"n":680,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the badge door at Stockyard fence. Nobody past the north yard. We push in 6 steps. Arc on the left lane, open."}
