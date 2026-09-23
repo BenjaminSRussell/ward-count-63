@@ -855,3 +855,6 @@
 {"n":855,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the radio coil at Mast yard. Nobody past the west yard. We push in 3 steps. Arc on the left lane, open."}
 {"n":856,"kind":"place","name":"Mast yard west yard","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Mast yard west yard. Ivo keeps the radio coil for the push. 4 steps, arc on the left lane, open."}
 {"n":857,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, west yard. arc left open. 5 steps. The radio coil stays for the push."}
+{"n":858,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the radio coil at Mast yard. Nobody past the west yard. We push in 6 steps. Arc on the left lane, open."}
+{"n":859,"kind":"place","name":"Mast yard west yard","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Mast yard west yard. Bess keeps the radio coil for the push. 7 steps, arc on the left lane, open."}
+{"n":860,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, west yard. arc left open. 8 steps. The radio coil stays for the push."}
