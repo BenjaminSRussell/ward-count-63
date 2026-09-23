@@ -746,3 +746,6 @@
 {"n":746,"kind":"place","name":"Drydock west yard","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Drydock west yard. Matt keeps the lamp for the push. 7 steps, arc on the left lane, open."}
 {"n":747,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, west yard. arc left open. 8 steps. The lamp stays for the push."}
 {"n":748,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the lamp at Drydock. Nobody past the west yard. We push in 2 steps. Arc on the left lane, open."}
+{"n":749,"kind":"place","name":"Drydock west yard","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Drydock west yard. Nia keeps the lamp for the push. 3 steps, arc on the left lane, open."}
+{"n":750,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, west yard. arc left open. 4 steps. The lamp stays for the push."}
+{"n":751,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the lamp at Drydock. Nobody past the west yard. We push in 5 steps. Arc on the left lane, open."}
