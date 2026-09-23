@@ -347,3 +347,6 @@
 {"n":347,"kind":"place","name":"the Lot south yard","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"the Lot south yard. Bess keeps the barrel for the push. 8 steps, arc on the left lane, open."}
 {"n":348,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, south yard. arc left open. 2 steps. The barrel stays for the push."}
 {"n":349,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the barrel at Stockyard fence. Nobody past the south yard. We push in 3 steps. Arc on the left lane, open."}
+{"n":350,"kind":"place","name":"Stockyard fence south yard","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Stockyard fence south yard. Matt keeps the barrel for the push. 4 steps, arc on the left lane, open."}
+{"n":351,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Stockyard fence, south yard. arc left open. 5 steps. The barrel stays for the push."}
+{"n":352,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the barrel at Stockyard fence. Nobody past the south yard. We push in 6 steps. Arc on the left lane, open."}
