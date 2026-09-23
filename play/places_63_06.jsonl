@@ -718,3 +718,6 @@
 {"n":718,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mast yard, north yard. arc left open. 2 steps. The badge door stays for the push."}
 {"n":719,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the badge door at Mast yard. Nobody past the north yard. We push in 3 steps. Arc on the left lane, open."}
 {"n":720,"kind":"place","name":"Mast yard north yard","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Mast yard north yard. Ivo keeps the badge door for the push. 4 steps, arc on the left lane, open."}
+{"n":721,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, north yard. arc left open. 5 steps. The badge door stays for the push."}
+{"n":722,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the badge door at Mast yard. Nobody past the north yard. We push in 6 steps. Arc on the left lane, open."}
+{"n":723,"kind":"place","name":"Mast yard north yard","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Mast yard north yard. Bess keeps the badge door for the push. 7 steps, arc on the left lane, open."}
