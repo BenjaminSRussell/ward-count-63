@@ -604,3 +604,6 @@
 {"n":604,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, east yard. arc left open. 3 steps. The crate stays for the push."}
 {"n":605,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the crate at High line. Nobody past the east yard. We push in 4 steps. Arc on the left lane, open."}
 {"n":606,"kind":"place","name":"High line east yard","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"High line east yard. Matt keeps the crate for the push. 5 steps, arc on the left lane, open."}
+{"n":607,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at High line, east yard. arc left open. 6 steps. The crate stays for the push."}
+{"n":608,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the crate at High line. Nobody past the east yard. We push in 7 steps. Arc on the left lane, open."}
+{"n":609,"kind":"place","name":"High line east yard","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"High line east yard. Nia keeps the crate for the push. 8 steps, arc on the left lane, open."}
