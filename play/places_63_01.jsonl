@@ -447,3 +447,6 @@
 {"n":447,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Kessler alley, west yard. arc left open. 2 steps. The crate stays for the push."}
 {"n":448,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the crate at Kessler alley. Nobody past the west yard. We push in 3 steps. Arc on the left lane, open."}
 {"n":449,"kind":"place","name":"Kessler alley west yard","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Kessler alley west yard. Nia keeps the crate for the push. 4 steps, arc on the left lane, open."}
+{"n":450,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, west yard. arc left open. 5 steps. The crate stays for the push."}
+{"n":451,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the crate at Kessler alley. Nobody past the west yard. We push in 6 steps. Arc on the left lane, open."}
+{"n":452,"kind":"place","name":"Kessler alley west yard","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Kessler alley west yard. Ivo keeps the crate for the push. 7 steps, arc on the left lane, open."}
