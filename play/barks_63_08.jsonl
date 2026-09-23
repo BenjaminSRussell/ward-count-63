@@ -595,3 +595,6 @@
 {"n":595,"kind":"place","name":"South stair south yard","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"South stair south yard. Bess keeps the drum for the push. 3 steps, arc on the left lane, open."}
 {"n":596,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, south yard. arc left open. 4 steps. The drum stays for the push."}
 {"n":597,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the drum at the pier. Nobody past the south yard. We push in 5 steps. Arc on the left lane, open."}
+{"n":598,"kind":"place","name":"the pier south yard","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"the pier south yard. Matt keeps the drum for the push. 6 steps, arc on the left lane, open."}
+{"n":599,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the pier, south yard. arc left open. 7 steps. The drum stays for the push."}
+{"n":600,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the drum at the pier. Nobody past the south yard. We push in 8 steps. Arc on the left lane, open."}
