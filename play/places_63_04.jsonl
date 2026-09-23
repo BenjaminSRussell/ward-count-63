@@ -951,3 +951,6 @@
 {"n":951,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at High line, east yard. arc left open. 6 steps. The radio coil stays for the push."}
 {"n":952,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the radio coil at High line. Nobody past the east yard. We push in 7 steps. Arc on the left lane, open."}
 {"n":953,"kind":"place","name":"High line east yard","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"High line east yard. Nia keeps the radio coil for the push. 8 steps, arc on the left lane, open."}
+{"n":954,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, east yard. arc left open. 2 steps. The radio coil stays for the push."}
+{"n":955,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the radio coil at High line. Nobody past the east yard. We push in 3 steps. Arc on the left lane, open."}
+{"n":956,"kind":"place","name":"High line east yard","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"High line east yard. Ivo keeps the radio coil for the push. 4 steps, arc on the left lane, open."}
