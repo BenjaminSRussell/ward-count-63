@@ -141,3 +141,6 @@
 {"n":141,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, south yard. arc left open. 5 steps. The plywood stays for the push."}
 {"n":142,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the plywood at High line. Nobody past the south yard. We push in 6 steps. Arc on the left lane, open."}
 {"n":143,"kind":"place","name":"High line south yard","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"High line south yard. Bess keeps the plywood for the push. 7 steps, arc on the left lane, open."}
+{"n":144,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, south yard. arc left open. 8 steps. The plywood stays for the push."}
+{"n":145,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the hydrant at Ward gate. Nobody past the south yard. We push in 2 steps. Arc on the left lane, open."}
+{"n":146,"kind":"place","name":"Ward gate south yard","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Ward gate south yard. Matt keeps the hydrant for the push. 3 steps, arc on the left lane, open."}
