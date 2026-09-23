@@ -925,3 +925,6 @@
 {"n":925,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, south slip. arc left open. 5 steps. The radio coil stays for the push."}
 {"n":926,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the radio coil at High line. Nobody past the south slip. We push in 6 steps. Arc on the left lane, open."}
 {"n":927,"kind":"place","name":"High line south slip","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"High line south slip. Bess keeps the radio coil for the push. 7 steps, arc on the left lane, open."}
+{"n":928,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, south slip. arc left open. 8 steps. The radio coil stays for the push."}
+{"n":929,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the plywood at Ward gate. Nobody past the west yard. We push in 2 steps. Arc on the left lane, open."}
+{"n":930,"kind":"place","name":"Ward gate west yard","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Ward gate west yard. Matt keeps the plywood for the push. 3 steps, arc on the left lane, open."}
