@@ -864,3 +864,6 @@
 {"n":864,"kind":"place","name":"the Lot west court","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"the Lot west court. Ivo keeps the rebar for the push. 5 steps, arc on the left lane, open."}
 {"n":865,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, west court. arc left open. 6 steps. The rebar stays for the push."}
 {"n":866,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the rebar at the Lot. Nobody past the west court. We push in 7 steps. Arc on the left lane, open."}
+{"n":867,"kind":"place","name":"the Lot west court","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"the Lot west court. Bess keeps the rebar for the push. 8 steps, arc on the left lane, open."}
+{"n":868,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, west court. arc left open. 2 steps. The rebar stays for the push."}
+{"n":869,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the rebar at Stockyard fence. Nobody past the west court. We push in 3 steps. Arc on the left lane, open."}
