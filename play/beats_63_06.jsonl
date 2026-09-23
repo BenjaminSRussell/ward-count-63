@@ -911,3 +911,6 @@
 {"n":911,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the radio coil at South stair. Nobody past the north yard. We push in 6 steps. Arc on the left lane, open."}
 {"n":912,"kind":"place","name":"South stair north yard","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"South stair north yard. Ivo keeps the radio coil for the push. 7 steps, arc on the left lane, open."}
 {"n":913,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, north yard. arc left open. 8 steps. The radio coil stays for the push."}
+{"n":914,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the radio coil at South stair. Nobody past the north yard. We push in 2 steps. Arc on the left lane, open."}
+{"n":915,"kind":"place","name":"South stair north yard","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"South stair north yard. Bess keeps the radio coil for the push. 3 steps, arc on the left lane, open."}
+{"n":916,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, north yard. arc left open. 4 steps. The radio coil stays for the push."}
