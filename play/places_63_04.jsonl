@@ -360,3 +360,6 @@
 {"n":360,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Underpass, east yard. arc left open. 3 steps. The awning stays for the push."}
 {"n":361,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the awning at Mast yard. Nobody past the east yard. We push in 4 steps. Arc on the left lane, open."}
 {"n":362,"kind":"place","name":"Mast yard east yard","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Mast yard east yard. Matt keeps the awning for the push. 5 steps, arc on the left lane, open."}
+{"n":363,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mast yard, east yard. arc left open. 6 steps. The awning stays for the push."}
+{"n":364,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the awning at Mast yard. Nobody past the east yard. We push in 7 steps. Arc on the left lane, open."}
+{"n":365,"kind":"place","name":"Mast yard east yard","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Mast yard east yard. Nia keeps the awning for the push. 8 steps, arc on the left lane, open."}
