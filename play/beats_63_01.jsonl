@@ -304,3 +304,6 @@
 {"n":304,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the barrel at Stockyard fence. Nobody past the west yard. We push in 6 steps. Arc on the left lane, open."}
 {"n":305,"kind":"place","name":"Stockyard fence west yard","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Stockyard fence west yard. Nia keeps the barrel for the push. 7 steps, arc on the left lane, open."}
 {"n":306,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, west yard. arc left open. 8 steps. The barrel stays for the push."}
+{"n":307,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the barrel at Stockyard fence. Nobody past the west yard. We push in 2 steps. Arc on the left lane, open."}
+{"n":308,"kind":"place","name":"Stockyard fence west yard","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Stockyard fence west yard. Ivo keeps the barrel for the push. 3 steps, arc on the left lane, open."}
+{"n":309,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, west yard. arc left open. 4 steps. The barrel stays for the push."}
