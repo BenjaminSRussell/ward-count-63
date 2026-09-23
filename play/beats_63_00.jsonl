@@ -320,3 +320,6 @@
 {"n":320,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the awning at the Underpass. Nobody past the south slip. We push in 2 steps. Arc on the left lane, open."}
 {"n":321,"kind":"place","name":"the Underpass south slip","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"the Underpass south slip. Nia keeps the awning for the push. 3 steps, arc on the left lane, open."}
 {"n":322,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Underpass, south slip. arc left open. 4 steps. The awning stays for the push."}
+{"n":323,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the awning at the Underpass. Nobody past the south slip. We push in 5 steps. Arc on the left lane, open."}
+{"n":324,"kind":"place","name":"the Underpass south slip","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"the Underpass south slip. Ivo keeps the awning for the push. 6 steps, arc on the left lane, open."}
+{"n":325,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Underpass, south slip. arc left open. 7 steps. The awning stays for the push."}
