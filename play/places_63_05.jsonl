@@ -500,3 +500,6 @@
 {"n":500,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, north yard. arc left open. 2 steps. The crate stays for the push."}
 {"n":501,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the crate at Stockyard fence. Nobody past the north yard. We push in 3 steps. Arc on the left lane, open."}
 {"n":502,"kind":"place","name":"Stockyard fence north yard","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Stockyard fence north yard. Matt keeps the crate for the push. 4 steps, arc on the left lane, open."}
+{"n":503,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Stockyard fence, north yard. arc left open. 5 steps. The crate stays for the push."}
+{"n":504,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the crate at Stockyard fence. Nobody past the north yard. We push in 6 steps. Arc on the left lane, open."}
+{"n":505,"kind":"place","name":"Stockyard fence north yard","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Stockyard fence north yard. Nia keeps the crate for the push. 7 steps, arc on the left lane, open."}
