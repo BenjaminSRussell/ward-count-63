@@ -544,3 +544,6 @@
 {"n":544,"kind":"place","name":"Mast yard north yard","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Mast yard north yard. Ivo keeps the crate for the push. 4 steps, arc on the left lane, open."}
 {"n":545,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, north yard. arc left open. 5 steps. The crate stays for the push."}
 {"n":546,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the crate at Mast yard. Nobody past the north yard. We push in 6 steps. Arc on the left lane, open."}
+{"n":547,"kind":"place","name":"Mast yard north yard","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Mast yard north yard. Bess keeps the crate for the push. 7 steps, arc on the left lane, open."}
+{"n":548,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, north yard. arc left open. 8 steps. The crate stays for the push."}
+{"n":549,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the crate at Last Light. Nobody past the north yard. We push in 2 steps. Arc on the left lane, open."}
