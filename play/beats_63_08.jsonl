@@ -810,3 +810,6 @@
 {"n":810,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the badge door at Drydock. Nobody past the south yard. We push in 8 steps. Arc on the left lane, open."}
 {"n":811,"kind":"place","name":"Drydock south yard","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Drydock south yard. Bess keeps the badge door for the push. 2 steps, arc on the left lane, open."}
 {"n":812,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, south yard. arc left open. 3 steps. The badge door stays for the push."}
+{"n":813,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the badge door at High line. Nobody past the south yard. We push in 4 steps. Arc on the left lane, open."}
+{"n":814,"kind":"place","name":"High line south yard","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"High line south yard. Matt keeps the badge door for the push. 5 steps, arc on the left lane, open."}
+{"n":815,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at High line, south yard. arc left open. 6 steps. The badge door stays for the push."}
