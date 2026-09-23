@@ -767,3 +767,6 @@
 {"n":767,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the badge door at Clinic roof. Nobody past the north yard. We push in 2 steps. Arc on the left lane, open."}
 {"n":768,"kind":"place","name":"Clinic roof north yard","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Clinic roof north yard. Ivo keeps the badge door for the push. 3 steps, arc on the left lane, open."}
 {"n":769,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Clinic roof, north yard. arc left open. 4 steps. The badge door stays for the push."}
+{"n":770,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the badge door at Clinic roof. Nobody past the north yard. We push in 5 steps. Arc on the left lane, open."}
+{"n":771,"kind":"place","name":"Clinic roof north yard","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Clinic roof north yard. Bess keeps the badge door for the push. 6 steps, arc on the left lane, open."}
+{"n":772,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Clinic roof, north yard. arc left open. 7 steps. The badge door stays for the push."}
