@@ -587,3 +587,6 @@
 {"n":587,"kind":"place","name":"South stair south yard","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"South stair south yard. Bess keeps the crate for the push. 3 steps, arc on the left lane, open."}
 {"n":588,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, south yard. arc left open. 4 steps. The crate stays for the push."}
 {"n":589,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the crate at the pier. Nobody past the south yard. We push in 5 steps. Arc on the left lane, open."}
+{"n":590,"kind":"place","name":"the pier south yard","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"the pier south yard. Matt keeps the crate for the push. 6 steps, arc on the left lane, open."}
+{"n":591,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the pier, south yard. arc left open. 7 steps. The crate stays for the push."}
+{"n":592,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the crate at the pier. Nobody past the south yard. We push in 8 steps. Arc on the left lane, open."}
