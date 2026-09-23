@@ -297,3 +297,6 @@
 {"n":297,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, south yard. arc left open. 7 steps. The hydrant stays for the push."}
 {"n":298,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the hydrant at Drydock. Nobody past the south yard. We push in 8 steps. Arc on the left lane, open."}
 {"n":299,"kind":"place","name":"Drydock south yard","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Drydock south yard. Bess keeps the hydrant for the push. 2 steps, arc on the left lane, open."}
+{"n":300,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, south yard. arc left open. 3 steps. The hydrant stays for the push."}
+{"n":301,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the hydrant at High line. Nobody past the south yard. We push in 4 steps. Arc on the left lane, open."}
+{"n":302,"kind":"place","name":"High line south yard","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"High line south yard. Matt keeps the hydrant for the push. 5 steps, arc on the left lane, open."}
