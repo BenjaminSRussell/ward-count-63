@@ -690,3 +690,6 @@
 {"n":690,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Underpass, east yard. arc left open. 4 steps. The badge door stays for the push."}
 {"n":691,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the badge door at the Underpass. Nobody past the east yard. We push in 5 steps. Arc on the left lane, open."}
 {"n":692,"kind":"place","name":"the Underpass east yard","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"the Underpass east yard. Ivo keeps the badge door for the push. 6 steps, arc on the left lane, open."}
+{"n":693,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Underpass, east yard. arc left open. 7 steps. The badge door stays for the push."}
+{"n":694,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the badge door at the Underpass. Nobody past the east yard. We push in 8 steps. Arc on the left lane, open."}
+{"n":695,"kind":"place","name":"the Underpass east yard","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"the Underpass east yard. Bess keeps the badge door for the push. 2 steps, arc on the left lane, open."}
