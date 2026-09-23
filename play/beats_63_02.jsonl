@@ -942,3 +942,6 @@
 {"n":942,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the radio coil at High line. Nobody past the west yard. We push in 6 steps. Arc on the left lane, open."}
 {"n":943,"kind":"place","name":"High line west yard","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"High line west yard. Bess keeps the radio coil for the push. 7 steps, arc on the left lane, open."}
 {"n":944,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, west yard. arc left open. 8 steps. The radio coil stays for the push."}
+{"n":945,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the plywood at Ward gate. Nobody past the east yard. We push in 2 steps. Arc on the left lane, open."}
+{"n":946,"kind":"place","name":"Ward gate east yard","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Ward gate east yard. Matt keeps the plywood for the push. 3 steps, arc on the left lane, open."}
+{"n":947,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, east yard. arc left open. 4 steps. The plywood stays for the push."}
