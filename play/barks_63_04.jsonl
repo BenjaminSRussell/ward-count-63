@@ -761,3 +761,6 @@
 {"n":761,"kind":"place","name":"Switchyard east yard","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"Switchyard east yard. Nia keeps the badge door for the push. 5 steps, arc on the left lane, open."}
 {"n":762,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, east yard. arc left open. 6 steps. The badge door stays for the push."}
 {"n":763,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the badge door at Switchyard. Nobody past the east yard. We push in 7 steps. Arc on the left lane, open."}
+{"n":764,"kind":"place","name":"Switchyard east yard","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Switchyard east yard. Ivo keeps the badge door for the push. 8 steps, arc on the left lane, open."}
+{"n":765,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, east yard. arc left open. 2 steps. The badge door stays for the push."}
+{"n":766,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the badge door at Switchyard. Nobody past the east yard. We push in 3 steps. Arc on the left lane, open."}
