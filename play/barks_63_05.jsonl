@@ -754,3 +754,6 @@
 {"n":754,"kind":"place","name":"Clinic roof north yard","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Clinic roof north yard. Matt keeps the lamp for the push. 4 steps, arc on the left lane, open."}
 {"n":755,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Clinic roof, north yard. arc left open. 5 steps. The lamp stays for the push."}
 {"n":756,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the lamp at Clinic roof. Nobody past the north yard. We push in 6 steps. Arc on the left lane, open."}
+{"n":757,"kind":"place","name":"Clinic roof north yard","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Clinic roof north yard. Nia keeps the lamp for the push. 7 steps, arc on the left lane, open."}
+{"n":758,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Clinic roof, north yard. arc left open. 8 steps. The lamp stays for the push."}
+{"n":759,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the lamp at Clinic roof. Nobody past the north yard. We push in 2 steps. Arc on the left lane, open."}
