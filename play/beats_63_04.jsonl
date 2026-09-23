@@ -142,3 +142,6 @@
 {"n":142,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the shutter at Kessler alley. Nobody past the east yard. We push in 2 steps. Arc on the left lane, open."}
 {"n":143,"kind":"place","name":"Kessler alley east yard","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Kessler alley east yard. Bess keeps the shutter for the push. 3 steps, arc on the left lane, open."}
 {"n":144,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, east yard. arc left open. 4 steps. The shutter stays for the push."}
+{"n":145,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the shutter at the Lot. Nobody past the east yard. We push in 5 steps. Arc on the left lane, open."}
+{"n":146,"kind":"place","name":"the Lot east yard","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"the Lot east yard. Matt keeps the shutter for the push. 6 steps, arc on the left lane, open."}
+{"n":147,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Lot, east yard. arc left open. 7 steps. The shutter stays for the push."}
