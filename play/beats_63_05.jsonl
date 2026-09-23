@@ -252,3 +252,6 @@
 {"n":252,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the hydrant at Clinic roof. Nobody past the north yard. We push in 6 steps. Arc on the left lane, open."}
 {"n":253,"kind":"place","name":"Clinic roof north yard","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Clinic roof north yard. Nia keeps the hydrant for the push. 7 steps, arc on the left lane, open."}
 {"n":254,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Clinic roof, north yard. arc left open. 8 steps. The hydrant stays for the push."}
+{"n":255,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the hydrant at Clinic roof. Nobody past the north yard. We push in 2 steps. Arc on the left lane, open."}
+{"n":256,"kind":"place","name":"Clinic roof north yard","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Clinic roof north yard. Ivo keeps the hydrant for the push. 3 steps, arc on the left lane, open."}
+{"n":257,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Clinic roof, north yard. arc left open. 4 steps. The hydrant stays for the push."}
