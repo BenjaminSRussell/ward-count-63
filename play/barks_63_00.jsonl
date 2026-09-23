@@ -417,3 +417,6 @@
 {"n":417,"kind":"place","name":"High line south slip","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"High line south slip. Nia keeps the awning for the push. 8 steps, arc on the left lane, open."}
 {"n":418,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, south slip. arc left open. 2 steps. The awning stays for the push."}
 {"n":419,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the awning at High line. Nobody past the south slip. We push in 3 steps. Arc on the left lane, open."}
+{"n":420,"kind":"place","name":"High line south slip","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"High line south slip. Ivo keeps the awning for the push. 4 steps, arc on the left lane, open."}
+{"n":421,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, south slip. arc left open. 5 steps. The awning stays for the push."}
+{"n":422,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the awning at High line. Nobody past the south slip. We push in 6 steps. Arc on the left lane, open."}
