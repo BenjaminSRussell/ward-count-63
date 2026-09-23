@@ -599,3 +599,6 @@
 {"n":599,"kind":"place","name":"High line west yard","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"High line west yard. Bess keeps the crate for the push. 7 steps, arc on the left lane, open."}
 {"n":600,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, west yard. arc left open. 8 steps. The crate stays for the push."}
 {"n":601,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the lamp at Ward gate. Nobody past the west yard. We push in 2 steps. Arc on the left lane, open."}
+{"n":602,"kind":"place","name":"Ward gate west yard","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Ward gate west yard. Matt keeps the lamp for the push. 3 steps, arc on the left lane, open."}
+{"n":603,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, west yard. arc left open. 4 steps. The lamp stays for the push."}
+{"n":604,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the lamp at Ward gate. Nobody past the west yard. We push in 5 steps. Arc on the left lane, open."}
