@@ -837,3 +837,6 @@
 {"n":837,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, east yard. arc left open. 4 steps. The radio coil stays for the push."}
 {"n":838,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the radio coil at Stockyard fence. Nobody past the east yard. We push in 5 steps. Arc on the left lane, open."}
 {"n":839,"kind":"place","name":"Stockyard fence east yard","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Stockyard fence east yard. Bess keeps the radio coil for the push. 6 steps, arc on the left lane, open."}
+{"n":840,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Stockyard fence, east yard. arc left open. 7 steps. The radio coil stays for the push."}
+{"n":841,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the radio coil at Mall court. Nobody past the east yard. We push in 8 steps. Arc on the left lane, open."}
+{"n":842,"kind":"place","name":"Mall court east yard","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Mall court east yard. Matt keeps the radio coil for the push. 2 steps, arc on the left lane, open."}
