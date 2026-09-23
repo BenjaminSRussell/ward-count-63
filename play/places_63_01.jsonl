@@ -429,3 +429,6 @@
 {"n":429,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, west yard. arc left open. 5 steps. The barrel stays for the push."}
 {"n":430,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the barrel at High line. Nobody past the west yard. We push in 6 steps. Arc on the left lane, open."}
 {"n":431,"kind":"place","name":"High line west yard","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"High line west yard. Bess keeps the barrel for the push. 7 steps, arc on the left lane, open."}
+{"n":432,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, west yard. arc left open. 8 steps. The barrel stays for the push."}
+{"n":433,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the crate at Ward gate. Nobody past the west yard. We push in 2 steps. Arc on the left lane, open."}
+{"n":434,"kind":"place","name":"Ward gate west yard","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Ward gate west yard. Matt keeps the crate for the push. 3 steps, arc on the left lane, open."}
