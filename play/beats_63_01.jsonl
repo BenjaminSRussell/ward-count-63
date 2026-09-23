@@ -832,3 +832,6 @@
 {"n":832,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the rebar at the Underpass. Nobody past the west yard. We push in 2 steps. Arc on the left lane, open."}
 {"n":833,"kind":"place","name":"the Underpass west yard","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"the Underpass west yard. Nia keeps the rebar for the push. 3 steps, arc on the left lane, open."}
 {"n":834,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Underpass, west yard. arc left open. 4 steps. The rebar stays for the push."}
+{"n":835,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the rebar at the Underpass. Nobody past the west yard. We push in 5 steps. Arc on the left lane, open."}
+{"n":836,"kind":"place","name":"the Underpass west yard","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"the Underpass west yard. Ivo keeps the rebar for the push. 6 steps, arc on the left lane, open."}
+{"n":837,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Underpass, west yard. arc left open. 7 steps. The rebar stays for the push."}
