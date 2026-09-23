@@ -123,3 +123,6 @@
 {"n":123,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the shutter at Kessler alley. Nobody past the west yard. We push in 6 steps. Arc on the left lane, open."}
 {"n":124,"kind":"place","name":"Kessler alley west yard","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Kessler alley west yard. Ivo keeps the shutter for the push. 7 steps, arc on the left lane, open."}
 {"n":125,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, west yard. arc left open. 8 steps. The shutter stays for the push."}
+{"n":126,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the shutter at Kessler alley. Nobody past the west yard. We push in 2 steps. Arc on the left lane, open."}
+{"n":127,"kind":"place","name":"Kessler alley west yard","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Kessler alley west yard. Bess keeps the shutter for the push. 3 steps, arc on the left lane, open."}
+{"n":128,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, west yard. arc left open. 4 steps. The shutter stays for the push."}
