@@ -79,3 +79,6 @@
 {"n":79,"kind":"place","name":"the pier north yard","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"the pier north yard. Bess keeps the plywood for the push. 8 steps, arc on the left lane, open."}
 {"n":80,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, north yard. arc left open. 2 steps. The plywood stays for the push."}
 {"n":81,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the plywood at Clinic roof. Nobody past the north yard. We push in 3 steps. Arc on the left lane, open."}
+{"n":82,"kind":"place","name":"Clinic roof north yard","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Clinic roof north yard. Matt keeps the plywood for the push. 4 steps, arc on the left lane, open."}
+{"n":83,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Clinic roof, north yard. arc left open. 5 steps. The plywood stays for the push."}
+{"n":84,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the plywood at Clinic roof. Nobody past the north yard. We push in 6 steps. Arc on the left lane, open."}
