@@ -350,3 +350,6 @@
 {"n":350,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Lot, south yard. arc left open. 3 steps. The awning stays for the push."}
 {"n":351,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the awning at the Lot. Nobody past the south yard. We push in 4 steps. Arc on the left lane, open."}
 {"n":352,"kind":"place","name":"the Lot south yard","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"the Lot south yard. Ivo keeps the awning for the push. 5 steps, arc on the left lane, open."}
+{"n":353,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, south yard. arc left open. 6 steps. The awning stays for the push."}
+{"n":354,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the awning at the Lot. Nobody past the south yard. We push in 7 steps. Arc on the left lane, open."}
+{"n":355,"kind":"place","name":"the Lot south yard","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"the Lot south yard. Bess keeps the awning for the push. 8 steps, arc on the left lane, open."}
