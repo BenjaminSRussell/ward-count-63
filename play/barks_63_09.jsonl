@@ -180,3 +180,6 @@
 {"n":180,"kind":"place","name":"Kessler alley west court","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Kessler alley west court. Ivo keeps the hydrant for the push. 7 steps, arc on the left lane, open."}
 {"n":181,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, west court. arc left open. 8 steps. The hydrant stays for the push."}
 {"n":182,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the hydrant at Kessler alley. Nobody past the west court. We push in 2 steps. Arc on the left lane, open."}
+{"n":183,"kind":"place","name":"Kessler alley west court","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Kessler alley west court. Bess keeps the hydrant for the push. 3 steps, arc on the left lane, open."}
+{"n":184,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, west court. arc left open. 4 steps. The hydrant stays for the push."}
+{"n":185,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the hydrant at the Lot. Nobody past the west court. We push in 5 steps. Arc on the left lane, open."}
