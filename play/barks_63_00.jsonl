@@ -888,3 +888,6 @@
 {"n":888,"kind":"place","name":"Clinic roof south slip","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Clinic roof south slip. Ivo keeps the radio coil for the push. 3 steps, arc on the left lane, open."}
 {"n":889,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Clinic roof, south slip. arc left open. 4 steps. The radio coil stays for the push."}
 {"n":890,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the radio coil at Clinic roof. Nobody past the south slip. We push in 5 steps. Arc on the left lane, open."}
+{"n":891,"kind":"place","name":"Clinic roof south slip","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Clinic roof south slip. Bess keeps the radio coil for the push. 6 steps, arc on the left lane, open."}
+{"n":892,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Clinic roof, south slip. arc left open. 7 steps. The radio coil stays for the push."}
+{"n":893,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the radio coil at Switchyard. Nobody past the south slip. We push in 8 steps. Arc on the left lane, open."}
