@@ -104,3 +104,6 @@
 {"n":104,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, west yard. arc left open. 8 steps. The rope stays for the push."}
 {"n":105,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the shutter at Ward gate. Nobody past the west yard. We push in 2 steps. Arc on the left lane, open."}
 {"n":106,"kind":"place","name":"Ward gate west yard","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Ward gate west yard. Matt keeps the shutter for the push. 3 steps, arc on the left lane, open."}
+{"n":107,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, west yard. arc left open. 4 steps. The shutter stays for the push."}
+{"n":108,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the shutter at Ward gate. Nobody past the west yard. We push in 5 steps. Arc on the left lane, open."}
+{"n":109,"kind":"place","name":"Ward gate west yard","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Ward gate west yard. Nia keeps the shutter for the push. 6 steps, arc on the left lane, open."}
