@@ -503,3 +503,6 @@
 {"n":503,"kind":"place","name":"the Underpass west yard","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"the Underpass west yard. Bess keeps the crate for the push. 2 steps, arc on the left lane, open."}
 {"n":504,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Underpass, west yard. arc left open. 3 steps. The crate stays for the push."}
 {"n":505,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the crate at Mast yard. Nobody past the west yard. We push in 4 steps. Arc on the left lane, open."}
+{"n":506,"kind":"place","name":"Mast yard west yard","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Mast yard west yard. Matt keeps the crate for the push. 5 steps, arc on the left lane, open."}
+{"n":507,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mast yard, west yard. arc left open. 6 steps. The crate stays for the push."}
+{"n":508,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the crate at Mast yard. Nobody past the west yard. We push in 7 steps. Arc on the left lane, open."}
