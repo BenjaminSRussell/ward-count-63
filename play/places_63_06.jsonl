@@ -454,3 +454,6 @@
 {"n":454,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, north yard. arc left open. 4 steps. The awning stays for the push."}
 {"n":455,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the awning at Drydock. Nobody past the north yard. We push in 5 steps. Arc on the left lane, open."}
 {"n":456,"kind":"place","name":"Drydock north yard","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Drydock north yard. Ivo keeps the awning for the push. 6 steps, arc on the left lane, open."}
+{"n":457,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, north yard. arc left open. 7 steps. The awning stays for the push."}
+{"n":458,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the awning at Drydock. Nobody past the north yard. We push in 8 steps. Arc on the left lane, open."}
+{"n":459,"kind":"place","name":"Drydock north yard","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Drydock north yard. Bess keeps the awning for the push. 2 steps, arc on the left lane, open."}
