@@ -953,3 +953,6 @@
 {"n":953,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the radio coil at Drydock. Nobody past the north yard. We push in 6 steps. Arc on the left lane, open."}
 {"n":954,"kind":"place","name":"Drydock north yard","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Drydock north yard. Matt keeps the radio coil for the push. 7 steps, arc on the left lane, open."}
 {"n":955,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, north yard. arc left open. 8 steps. The radio coil stays for the push."}
+{"n":956,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the radio coil at Drydock. Nobody past the north yard. We push in 2 steps. Arc on the left lane, open."}
+{"n":957,"kind":"place","name":"Drydock north yard","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Drydock north yard. Nia keeps the radio coil for the push. 3 steps, arc on the left lane, open."}
+{"n":958,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, north yard. arc left open. 4 steps. The radio coil stays for the push."}
