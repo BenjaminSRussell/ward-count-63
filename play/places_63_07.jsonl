@@ -945,3 +945,6 @@
 {"n":945,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Clinic roof, south yard. arc left open. 4 steps. The rebar stays for the push."}
 {"n":946,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the rebar at Clinic roof. Nobody past the south yard. We push in 5 steps. Arc on the left lane, open."}
 {"n":947,"kind":"place","name":"Clinic roof south yard","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Clinic roof south yard. Bess keeps the rebar for the push. 6 steps, arc on the left lane, open."}
+{"n":948,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Clinic roof, south yard. arc left open. 7 steps. The rebar stays for the push."}
+{"n":949,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the rebar at Switchyard. Nobody past the south yard. We push in 8 steps. Arc on the left lane, open."}
+{"n":950,"kind":"place","name":"Switchyard south yard","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Switchyard south yard. Matt keeps the rebar for the push. 2 steps, arc on the left lane, open."}
