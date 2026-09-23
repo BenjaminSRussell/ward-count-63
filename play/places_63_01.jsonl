@@ -258,3 +258,6 @@
 {"n":258,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, west yard. arc left open. 2 steps. The hydrant stays for the push."}
 {"n":259,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the hydrant at High line. Nobody past the west yard. We push in 3 steps. Arc on the left lane, open."}
 {"n":260,"kind":"place","name":"High line west yard","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"High line west yard. Ivo keeps the hydrant for the push. 4 steps, arc on the left lane, open."}
+{"n":261,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, west yard. arc left open. 5 steps. The hydrant stays for the push."}
+{"n":262,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the hydrant at High line. Nobody past the west yard. We push in 6 steps. Arc on the left lane, open."}
+{"n":263,"kind":"place","name":"High line west yard","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"High line west yard. Bess keeps the hydrant for the push. 7 steps, arc on the left lane, open."}
