@@ -754,3 +754,6 @@
 {"n":754,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, south slip. arc left open. 2 steps. The badge door stays for the push."}
 {"n":755,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the badge door at High line. Nobody past the south slip. We push in 3 steps. Arc on the left lane, open."}
 {"n":756,"kind":"place","name":"High line south slip","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"High line south slip. Ivo keeps the badge door for the push. 4 steps, arc on the left lane, open."}
+{"n":757,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, south slip. arc left open. 5 steps. The badge door stays for the push."}
+{"n":758,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the badge door at High line. Nobody past the south slip. We push in 6 steps. Arc on the left lane, open."}
+{"n":759,"kind":"place","name":"High line south slip","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"High line south slip. Bess keeps the badge door for the push. 7 steps, arc on the left lane, open."}
